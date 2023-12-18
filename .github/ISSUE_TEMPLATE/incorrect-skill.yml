@@ -1,0 +1,21 @@
+name: Incorrect Skill Handling
+description: Incorrect skill handling
+title: "[Skills]: "
+labels: ["skills"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Before submitting, I have
+      description: Please ensure you have done all the below things before you submit.
+      options:
+        - label: Double-checked existing Issues for a similar issue (including closed ones).
+          required: true
+        - label: Verified in-game and or using the Datamine, that the skill is truly handled incorrectly (descriptions are often wrong!).
+          required: true
+  - type: textarea
+    attributes:
+      label: Context
+      description: Please explain in detail how the tool currently handles it and how it *should* be handled.
+      placeholder: The skill is...
+    validations:
+      required: true

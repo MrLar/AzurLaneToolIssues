@@ -1,0 +1,22 @@
+name: Request a Ship to be handled
+description: Request the skills of a ship to be handled by the tool
+title: "[Ship Request]: "
+labels: ["ship"]
+body:
+  - type: checkboxes
+    attributes:
+      label: Before submitting, I have
+      description: Please ensure you have done all the below things before you submit.
+      options:
+        - label: Double-checked existing Issues for a similar request (including closed ones).
+          required: true
+        - label: The ship has not already been taken care of.
+          required: true
+        - label: The ship actually has skills the tool could handle.
+          required: true
+  - type: textarea
+    attributes:
+      label: Context
+      description: Please provide the english name of the ship to handle, and a link to its wiki.
+    validations:
+      required: true
