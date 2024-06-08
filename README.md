@@ -1,2 +1,2 @@
 # AzurLaneCalculatorIssues
-Issue repository for https://azur.mrlar.dev
+Issue repository for https://azurlane.mrlar.dev
