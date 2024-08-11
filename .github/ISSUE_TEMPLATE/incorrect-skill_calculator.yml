@@ -1,7 +1,7 @@
 name: Incorrect Skill Handling
 description: Incorrect skill handling
-title: "[Skills]: "
-labels: ["skills"]
+title: "[Calculator Skills]: "
+labels: ["skills", "calculator"]
 body:
   - type: checkboxes
     attributes:

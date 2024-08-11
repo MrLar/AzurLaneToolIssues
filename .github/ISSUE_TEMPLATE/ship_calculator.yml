@@ -1,7 +1,7 @@
 name: Request a Ship to be handled
 description: Request the skills of a ship to be handled by the tool
-title: "[Ship Request]: "
-labels: ["ship"]
+title: "[Calculator Ship Request]: "
+labels: ["ship", "calculator"]
 body:
   - type: checkboxes
     attributes:

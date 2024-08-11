@@ -1,7 +1,7 @@
 name: Bug Report
-description: Report a bug with the Calculator
-title: "[Bug]: "
-labels: ["bug"]
+description: Report a bug with the Databse
+title: "[ALDB Bug]: "
+labels: ["bug", "db"]
 body:
   - type: checkboxes
     attributes:
@@ -9,8 +9,6 @@ body:
       description: Please ensure you have done all the below things before you submit.
       options:
         - label: Made sure this is actual unintended behaviour.
-          required: true
-        - label: Double-checked the [Info Page](https://azur.mrlar.dev/info) for potential misunderstandings.
           required: true
         - label: "If this is gameplay/calculation related: Ensured the formula/assumptions/etc. are actually incorrect (provide proof!)."
           required: true

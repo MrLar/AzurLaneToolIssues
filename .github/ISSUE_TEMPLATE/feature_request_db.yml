@@ -1,7 +1,7 @@
 name: Suggestion/Feature Request
-description: Suggest a new feature or an addition to an existing feature.
-title: "[Feature req.]: "
-labels: ["feature request"]
+description: Suggest a new feature or an addition to an existing feature for the Database.
+title: "[ALDB Feature req.]: "
+labels: ["feature request", "db"]
 body:
   - type: checkboxes
     attributes:
