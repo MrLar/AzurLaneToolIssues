@@ -1,4 +1,4 @@
-name: Request a Ship to be handled
+name: Request a Ship to be handled (Calculator)
 description: Request the skills of a ship to be handled by the tool
 title: "[Calculator Ship Request]: "
 labels: ["ship", "calculator"]

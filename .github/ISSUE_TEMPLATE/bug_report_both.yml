@@ -1,4 +1,4 @@
-name: Bug Report
+name: Bug Report (Both)
 description: Report a bug with the Database *and* the Calculator
 title: "[ALDB+Calculator Bug]: "
 labels: ["bug", "db", "calculator"]

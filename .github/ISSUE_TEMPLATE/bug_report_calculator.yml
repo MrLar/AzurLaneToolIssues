@@ -1,4 +1,4 @@
-name: Bug Report
+name: Bug Report (Calculator)
 description: Report a bug with the Calculator
 title: "[Calculator Bug]: "
 labels: ["bug", "calculator"]

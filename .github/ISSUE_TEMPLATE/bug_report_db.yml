@@ -1,4 +1,4 @@
-name: Bug Report
+name: Bug Report (ALDB)
 description: Report a bug with the Databse
 title: "[ALDB Bug]: "
 labels: ["bug", "db"]
